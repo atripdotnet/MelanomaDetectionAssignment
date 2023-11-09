@@ -19,9 +19,7 @@
 
 ## Conclusions
 - After handeling class imbalance the model validation accuracy improved significantly
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
