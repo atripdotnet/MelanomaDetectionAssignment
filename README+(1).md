@@ -33,9 +33,7 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [Upgrad's module on CNN networks in ML/AI diploma cum masters cource).
 
 
 ## Contact
